@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946925240873",
+    "firebase_url": "https://flowater-meter-dc.firebaseio.com",
+    "project_id": "flowater-meter-dc",
+    "storage_bucket": "flowater-meter-dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946925240873:android:da8aade6a5f1d476",
+        "android_client_info": {
+          "package_name": "com.example.flowater1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946925240873-2cbjgujtr9h7netv8kn6phfs2t5qdgt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flowater1",
+            "certificate_hash": "aaa12ae04954bc05c9e6ea87a899fab53f6e2e92"
+          }
+        },
+        {
+          "client_id": "946925240873-4i6lf11fu55u0gnl7sf6ctprtcc564k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJnGAXOrXb130uY4Rp1QKZu93jRzWdD9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946925240873-4i6lf11fu55u0gnl7sf6ctprtcc564k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
